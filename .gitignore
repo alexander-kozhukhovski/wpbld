@@ -1,0 +1,13 @@
+# IDE files
+.DS_Store
+.idea
+
+# Configs
+.env
+!docker/.env
+
+# Application
+app
+vendor
+docker/traefik/certs
+db-backups
